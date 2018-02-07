@@ -1,5 +1,6 @@
 .navBar {
 		float: center;
+		background-color: #bde4ed;
 }
 
 div {
@@ -9,4 +10,24 @@ div {
 .label {
 	text-align: center;
 	font-size: 150%;
+}
+
+.recipeList{
+	text-align: center;
+}
+
+.backButton{
+	float: left;
+}
+
+.foodPicture{
+	text-align: center;
+}
+
+.navButton{
+		float: center;
+}
+
+.recipeSummary{
+	text-align: center;
 }
